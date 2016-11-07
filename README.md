@@ -9,6 +9,7 @@
 	npm install react react-dom --save （可省略）
 	npm install babel-core babel-loader babel-preset-es2015 babel-preset-react  （必须）
 	npm install webpack-dev-server --save-dev(可省略）
+	npm install antd (必须)
 ##
 	运行npm install 将会安装相关依赖库package.json中的依赖项
 	
